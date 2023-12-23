@@ -3,4 +3,4 @@ Experimenting
 
 |Name|Version|Download|Dependencies|Notes|
 |-|-|-|-|-|
-|[libtool](http://www.gnu.org/software/libtool/libtool.html)|2.4.6.56-f51ed|[arm](https://github.com/laheller/playground/files/7964064/libtool_arm.tar.gz)<br/> [aarch64]((#))|-|Version info is in .version file|
+|[libtool](http://www.gnu.org/software/libtool/libtool.html)|2.4.7|[arm](https://github.com/laheller/The-great-Android-native-library-collection/files/13758765/libtool_2.4.7_arm.tar.gz)<br/> [aarch64](https://github.com/laheller/The-great-Android-native-library-collection/files/13758766/libtool_2.4.7_aarch64.tar.gz)|-|-|
