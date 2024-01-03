@@ -1,5 +1,5 @@
 # Info
-As the repo name says, it's a collection of various prebuilt native shared and static libraries for Android. All libraries were built from sources and the build output installed to a "prefix" destination directory. Finally the content of destination directory was compressed to a single downloadable package. See the table below.
+As the repo name says, it's a collection of various prebuilt native shared and static libraries for Android.<br/> All libraries were cross-compiled from sources using the [Android NDK](https://developer.android.com/ndk) and the build output installed to the [prefix](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.72/autoconf.html#Default-Prefix) destination directory. Finally the content of destination directory was compressed to a single downloadable package. See the table below.
 
 |Name|Version|Download|Dependencies|Notes|
 |-|-|-|-|-|
